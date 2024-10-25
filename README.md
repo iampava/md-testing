@@ -4,11 +4,19 @@
 
 Go to [README.md relative](./README.md)
 
+---
+
 Go to [README.md absolute](/README.md)
+
+---
 
 Go to [README.md basic](README.md)
 
+---
+
 ### this.md
+
+---
 
 Go to [this.md relative](./this/this.md)
 

@@ -10,7 +10,14 @@ Go to [README.md basic](README.md) - shouldn't work
 
 ### this.md
 
+---
+---
+
 Go to [this.md relative](../this.md)
+
+---
+
+---
 
 Go to [this.md absolute](/this/this.md)
 
