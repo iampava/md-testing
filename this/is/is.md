@@ -1,5 +1,13 @@
 # is.md
 
+### Links down
+
+[go to subtitle relative](./is.md#subtitle)
+
+[go to subtitle absolute](/this/is/is.md#subtitle)
+
+[go to subtitle basic](#subtitle)
+
 ### Readme.md
 
 Go to [README.md relative](../../README.md)
