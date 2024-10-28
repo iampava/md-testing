@@ -33,3 +33,13 @@ Go to [# is.md absolute](/this/is/is.md#ismd-1)
 Go to [is.md basic](this/is/is.md)
 Go to [# is.md basic](this/is/is.md#ismd-1)
 
+
+### Lorem ipsum
+
+go to [lorem section relative](./this/is/is.md#subtitle)
+
+go to [Go to section absolute](/this/is/is.md#subtitle)
+
+go to [lorem section basic](this/is/is.md#subtitle)
+
+
