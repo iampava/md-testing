@@ -43,10 +43,29 @@ go to [Go to section absolute](/this/is/is.md#subtitle)
 
 go to [lorem section basic](this/is/is.md#subtitle)
 
-### Image
 
-![Image](./public/image.jpg)
+---
 
-![Image](/public/image.jpg)
+### Root image
 
-![Image](public/image.jpg)
+![Image](./root.jpg)
+
+![Image](/root.jpg)
+
+![Image](root.jpg)
+
+### This image
+
+![Image](./this/this.jpg)
+
+![Image](/this/this.jpg)
+
+![Image](this/this.jpg)
+
+### Is image
+
+![Image](./this/is/is.jpg)
+
+![Image](/this/is/is.jpg)
+
+![Image](this/is/is.jpg)

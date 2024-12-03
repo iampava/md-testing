@@ -33,10 +33,28 @@ Go to [# is.md absolute](/this/is/is.md#ismd-1)
 Go to [is.md basic](is/is.md)
 Go to [# is.md basic](is/is.md#ismd-1)
 
-### Image
+---
 
-![Image](../public/image.jpg)
+### Root image
 
-![Image](/public/image.jpg)
+![Image](../root.jpg)
 
-![Image](public/image.jpg)
+![Image](/root.jpg)
+
+![Image](root.jpg)
+
+### This image
+
+![Image](./this.jpg)
+
+![Image](/this/this.jpg)
+
+![Image](this.jpg)
+
+### Is image
+
+![Image](./is/is.jpg)
+
+![Image](/this/is/is.jpg)
+
+![Image](is/is.jpg)
