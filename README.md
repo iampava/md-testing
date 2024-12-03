@@ -11,6 +11,7 @@ Go to [# README.md absolute](/README.md#ismd)
 Go to [README.md basic](README.md)
 Go to [# README.md basic](README.md#ismd)
 
+
 ### this.md
 
 Go to [this.md relative](./this/this.md)
@@ -42,4 +43,10 @@ go to [Go to section absolute](/this/is/is.md#subtitle)
 
 go to [lorem section basic](this/is/is.md#subtitle)
 
+### Image
 
+![Image](./public/image.jpg)
+
+![Image](/public/image.jpg)
+
+![Image](public/image.jpg)

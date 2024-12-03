@@ -32,3 +32,11 @@ Go to [# is.md absolute](/this/is/is.md#ismd-1)
 
 Go to [is.md basic](is/is.md)
 Go to [# is.md basic](is/is.md#ismd-1)
+
+### Image
+
+![Image](../public/image.jpg)
+
+![Image](/public/image.jpg)
+
+![Image](public/image.jpg)
