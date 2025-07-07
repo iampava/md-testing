@@ -5,6 +5,10 @@
 Go to [README.md relative](./README.md)
 Go to [# README.md relative](./README.md#ismd)
 
+
+google.com
+www.google.com
+
 Go to [README.md absolute](/README.md)
 Go to [# README.md absolute](/README.md#ismd)
 
