@@ -14,14 +14,22 @@ www.google.com
 [google.com](google.com)
 [www.google.com](www.google.com)
 
+---
+
 Go to [README.md absolute](/README.md)
 Go to [# README.md absolute](/README.md#ismd)
+
+---
 
 Go to [README.md basic](README.md)
 Go to [# README.md basic](README.md#ismd)
 
 
+---
+
 ### this.md
+
+---
 
 Go to [this.md relative](./this/this.md)
 Go to [# this.md relative](./this/this.md#thismd-1)

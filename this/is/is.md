@@ -22,8 +22,15 @@ Go to [# README.md basic](README.md#ismd) - shouldn't work
 
 ### this.md
 
+---
+---
+
 Go to [this.md relative](../this.md)
 Go to [# this.md relative](../this.md#thismd-1)
+
+---
+
+---
 
 Go to [this.md absolute](/this/this.md)
 Go to [# this.md absolute](/this/this.md#thismd-1)
